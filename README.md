@@ -1,4 +1,4 @@
-# 🧠 Detecção e Recorte de Objetos com YOLOv8 + OpenCV
+#  Detecção e Recorte de Objetos com YOLOv8 + OpenCV
 
 Este projeto utiliza o modelo **YOLOv8 treinado sob medida** para detectar objetos em tempo real via webcam, desenhar as bounding boxes no vídeo ao vivo e **salvar automaticamente imagens recortadas dos objetos detectados** com nomes únicos. Toda a lógica é construída em Python com suporte à GPU (quando disponível), integrando PyTorch, OpenCV e Ultralytics.
 
